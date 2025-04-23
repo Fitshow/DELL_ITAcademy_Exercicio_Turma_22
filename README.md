@@ -1,12 +1,10 @@
 
-# 🦈 Torneio de Startups – Simulador Java  
+# Torneio de Startups – Simulador Java  
 Simulação de um torneio entre startups, com batalhas, pontuação e classificação por performance. Desenvolvido por **Luis Felipe Flores Acosta** como exercício prático do programa DELL IT Academy.
-
-🔗 [Repositório GitHub](https://github.com/Fitshow/DELL_ITAcademy_Exercicio_Turma_22)
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java JDK**: 21.0.2 (2024-01-16 LTS)  
 - **IDE**: IntelliJ IDEA 2024.2.3 (Ultimate Edition)  
@@ -15,25 +13,20 @@ Simulação de um torneio entre startups, com batalhas, pontuação e classifica
 
 ---
 
-## ⚙️ Como Executar o Projeto no IntelliJ
+## Como Executar o Projeto no IntelliJ
 
-### ✅ Pré-requisitos
+### Pré-requisitos
 
 - Java JDK 21 instalado ([Baixe aqui](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html))
 - IntelliJ IDEA 2024.2.3 Ultimate (ou Community)
 
 ---
 
-### 🚀 Passo a Passo
+### Passo a Passo
 
-#### 1. Clone o repositório
-Abra o terminal e execute:
-
-```bash
-git clone https://github.com/Fitshow/DELL_ITAcademy_Exercicio_Turma_22.git
-```
-
-Ou baixe o projeto como `.zip` pelo botão "Code > Download ZIP" no GitHub.
+#### 1. Extraia o arquivo .zip
+- Baixe o arquivo .zip
+- Extraia o conteúdo dela
 
 #### 2. Abra o projeto no IntelliJ
 - Abra o IntelliJ IDEA
@@ -52,18 +45,19 @@ Ou baixe o projeto como `.zip` pelo botão "Code > Download ZIP" no GitHub.
 
 ---
 
-## 🧠 Como Usar
+## Como Usar
 
 O programa roda via terminal e possui um menu interativo para:
 
+- Definir o número de participantes (4, 6 ou 8)
 - Cadastrar startups com nome, slogan e data de fundação
 - Iniciar batalhas entre startups com pontuação dinâmica
 - Aplicar critérios de desempate por sorteio ou performance
-- Visualizar vencedores e finalistas
+- Visualizar resultados do terneio
 
 ---
 
-## 📁 Estrutura das Classes
+## Estrutura das Classes
 
 ```bash
 ├── src/
@@ -74,7 +68,8 @@ O programa roda via terminal e possui um menu interativo para:
 
 ---
 
-## ✍️ Autor
+## Autor
 
 **Luis Felipe Flores Acosta**  
-LinkedIn e GitHub disponíveis no perfil do repositório.
+LinkedIn: https://www.linkedin.com/in/luis-felipe-acosta/
+GitHub: https://github.com/Fitshow
